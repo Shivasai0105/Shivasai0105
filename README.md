@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivasai0105&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasai0105&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Shivasai0105&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shivasai0105&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
@@ -83,6 +83,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shivasai0105/Shivasai0105/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ### 🧩 LeetCode Stats
 
 <p align="center">
@@ -93,8 +94,9 @@
 
 ### 📌 Featured Project
 
-**[PlacementOS](https://github.com/Shivasai0105/placementos)** —PlacementOS is a full-stack MERN web application designed to help students prepare for placements by organizing their learning journey. It provides secure user authentication, DSA progress tracking, personalized study plans, and an analytics dashboard to visualize learning progress. The application helps users stay consistent and monitor their placement preparation effectively.
-https://placementos-kappa.vercel.app
+**[PlacementOS](https://github.com/Shivasai0105/placementos)** — PlacementOS is a full-stack MERN web application designed to help students prepare for placements by organizing their learning journey. It provides secure user authentication, DSA progress tracking, personalized study plans, and an analytics dashboard to visualize learning progress. The application helps users stay consistent and monitor their placement preparation effectively.
+
+🔗 [Live Demo](https://placementos-kappa.vercel.app)
 
 ---
 
@@ -107,8 +109,7 @@ https://placementos-kappa.vercel.app
   <a href="https://leetcode.com/u/shiva_sai_goud/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/shivasaigoudsayabgari
-" target="_blank">
+  <a href="https://www.linkedin.com/in/shivasaigoudsayabgari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivasaigoudsayabgari@gmail.com">
