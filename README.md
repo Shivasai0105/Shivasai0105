@@ -78,18 +78,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shivasai0105&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shivasai0105/Shivasai0105/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> Note: this image will only appear after you set up the snake GitHub Action (steps below).
-
----
-
 ### 🧩 LeetCode Stats
 
 <p align="center">
@@ -100,9 +93,8 @@
 
 ### 📌 Featured Project
 
-**[Landing Page](https://github.com/Shivasai0105/placementos)** —PlacementOS is a full-stack MERN web application designed to help students prepare for placements by organizing their learning journey. It provides secure user authentication, DSA progress tracking, personalized study plans, and an analytics dashboard to visualize learning progress. The application helps users stay consistent and monitor their placement preparation effectively.
+**[PlacementOS](https://github.com/Shivasai0105/placementos)** —PlacementOS is a full-stack MERN web application designed to help students prepare for placements by organizing their learning journey. It provides secure user authentication, DSA progress tracking, personalized study plans, and an analytics dashboard to visualize learning progress. The application helps users stay consistent and monitor their placement preparation effectively.
 https://placementos-kappa.vercel.app
-> Update this section as you add more projects — a couple of lines per project (what it does, stack used, and a live demo/repo link) go a long way for anyone visiting your profile.
 
 ---
 
@@ -115,7 +107,7 @@ https://placementos-kappa.vercel.app
   <a href="https://leetcode.com/u/shiva_sai_goud/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/shiva sai goud sayabgari
+  <a href="https://www.linkedin.com/in/shivasaigoudsayabgari
 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
