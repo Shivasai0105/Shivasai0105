@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shiva Sai</h1>
-<h3 align="center">Web Developer | MERN Stack Enthusiast</h3>
-
 <p align="center">
-  I build full-stack web applications with a focus on clean, scalable code
-  and practical, real-world functionality.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Shiva%20Sai%20Goud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -70,6 +66,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivasai0105&hide_border=true" alt="streak stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivasai0105&hide_border=true&theme=github-compact" alt="activity graph" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivasai0105&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivasai0105/Shivasai0105/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> Note: this image will only appear after you set up the snake GitHub Action (steps below).
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shiva_sai_goud?theme=light&font=Baloo%202&ext=activity" alt="leetcode stats" />
+</p>
+
 ---
 
 ### 📌 Featured Project
@@ -83,6 +109,12 @@
 ### 📫 Connect With Me
 
 <p>
+  <a href="https://shivasaigoudresume.tiiny.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shiva_sai_goud/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
